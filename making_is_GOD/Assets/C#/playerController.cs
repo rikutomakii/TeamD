@@ -8,14 +8,10 @@ public class playerController : MonoBehaviour
 
     void Update()
     {
-        if (Input.GetKey(KeyCode.LeftArrow))
-        {
-            transform.Translate(-0.1f, 0, 0);
-        }
-        if (Input.GetKey(KeyCode.RightArrow))
-        {
-            transform.Translate(0.1f, 0, 0);
-        }
+        float x = Input.GetAxis("Horizontal");
+        float y = Input.GetAxis("Vertical");
+
+        transform.position += new Vector3(x, y, 0)*Time.deltaTime*8;
         if (Input.GetKeyDown(KeyCode.Space))
         {
             Instantiate(bulletPrefab, transform.position, Quaternion.identity);

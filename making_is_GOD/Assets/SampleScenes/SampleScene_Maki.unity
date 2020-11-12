@@ -238,9 +238,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   wayPoints:
-  - {x: -30, y: -131.598, z: 68}
+  - {x: -30, y: -131.598, z: 50}
   - {x: -49, y: -131.598, z: 68}
-  - {x: -70, y: -131.598, z: 68}
+  - {x: -70, y: -131.598, z: 50}
   player: {fileID: 1921865901}
   enemypos: {fileID: 218531513}
 --- !u!195 &218531509

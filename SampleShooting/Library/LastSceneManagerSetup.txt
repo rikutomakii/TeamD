@@ -1,17 +1,1 @@
-sceneSetups:
-<<<<<<< HEAD
-- path: Assets/SampleScenes/MakiSampleScene.unity
-=======
-<<<<<<< HEAD
-- path: Assets/Scenes/SampleScene.unity
-=======
-<<<<<<< HEAD
-- path: Assets/MainScenes/Title.unity
-=======
-- path: Assets/Scenes/Player.unity
->>>>>>> b433655364f9d4c2310c18492a287628387cc52d
->>>>>>> 24807d84be19d28f74e285cb32f8a93ccaba145c
->>>>>>> eb6028351dc3f0a6f6541ea3e984715edf392f71
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
+sceneSetups: []

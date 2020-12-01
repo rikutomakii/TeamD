@@ -41,3 +41,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Back
+    uniqueID: 3178952447
+    locked: 0
+  - name: Player
+    uniqueID: 875155983
+    locked: 0
+  - name: Enemy
+    uniqueID: 171531429
+    locked: 0
+  - name: Shot
+    uniqueID: 351854191
+    locked: 0
+  - name: Bullet
+    uniqueID: 2059577195
+    locked: 0
+  - name: Borad
+    uniqueID: 3421968429
+    locked: 0
